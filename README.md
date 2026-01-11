@@ -73,4 +73,16 @@ Desde la terminal, ubicándose en la carpeta del proyecto:
 ```bash
 python main.py
 
+```
+
+## 🎥 Video Explicativo del Proyecto
+
+En el siguiente video se explica de manera breve y clara el funcionamiento del sistema, la estructura del proyecto y los conceptos de Programación Orientada a Objetos aplicados, como abstracción, herencia, polimorfismo, composición y agregación.
+
+[![Video explicativo del proyecto](thumbnail.png)](https://youtu.be/DMdGOXdueQI)
+
+👉 **Enlace directo al video:**  
+https://youtu.be/DMdGOXdueQI
+
+
 
